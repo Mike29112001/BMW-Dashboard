@@ -39,11 +39,3 @@ https://github.com/user-attachments/assets/09f028aa-afbb-4f11-b981-c56dfe53827a
 - Game-like interface (similar to vehicle selection in video games)
 
 ![Screenshot Pagina 2](https://github.com/user-attachments/assets/dca71dbc-65ca-41c8-9541-0d5a5e01175a)
-
-  
-### 3. Comparison Page (Page 2)
-- Select multiple models to compare based on:
-  - Selling price  
-  - Units sold  
-  - Total profit  
-- Game-like interface (similar to vehicle selection in video games)
