@@ -1,41 +1,42 @@
 # BMW Dashboard Project
 
-## Doel van het project
+## Project Objective
 
-Dit project richt zich op het ontwikkelen van een interactief **Power BI-dashboard** voor BMW-modellen.  
-Het dashboard biedt inzichten in verkoopdata, prijsvergelijkingen, winst en de populariteit van verschillende modellen door de tijd heen.
+This project focuses on developing an interactive **Power BI dashboard** for BMW models.  
+The dashboard provides insights into sales data, price comparisons, profit, and the popularity of various models over time.
 
 ---
 
-## Functionaliteiten
+## Features
 
-### 1. Interactieve visualisatie van modellen
-- Weergave van BMW-modellen op een interactieve kaart.
-- Mogelijkheid om per model te klikken en gedetailleerde informatie te bekijken:
-  - Vraagprijs
-  - Totale winst per **jaar**, **maand** en **week**  
-  - Aantal verkochte eenheden per **jaar**, **maand** en **week**
-  #### Filteren op verkoopkanaal:
-  - Online
-  - Dealer
-  - Groothandel
+### 1. Interactive Model Visualization
+- Display of BMW models on an interactive card.
+- Ability to click on each model to view detailed information:
+  - Asking price  
+  - Total profit per **year**, **month**, and **week**  
+  - Number of units sold per **year**, **month**, and **week**
+  
+#### Filter by sales channel:
+- Online  
+- Dealer  
+- Wholesale  
 
-### 2. Verkoopanalyse en vergelijkingen
-- Vergelijking van:
-  - Duurste en goedkoopste modellen
-  - Best- en minstverkochte modellen
-- Inzicht in:
-  - Verkoopcijfers
-  - Omzet en winst per model
+### 2. Sales Analysis and Comparisons
+- Comparison of:
+  - Most and least expensive models  
+  - Best- and worst-selling models  
+- Insights into:
+  - Sales figures  
+  - Revenue and profit per model
     
 https://github.com/user-attachments/assets/09f028aa-afbb-4f11-b981-c56dfe53827a
 
-### 3. Vergelijkingspagina (Pagina 2)
-- Selecteer meerdere modellen om te vergelijken op basis van:
-  - Verkoopprijs
-  - Aantal verkochte
-  - Totale winst
-- Game-achtige interface (zoals voertuigselectie in videogames)
+### 3. Comparison Page (Page 2)
+- Select multiple models to compare based on:
+  - Selling price  
+  - Units sold  
+  - Total profit  
+- Game-like interface (similar to vehicle selection in video games)
 
 ![Screenshot Pagina 2](https://github.com/user-attachments/assets/dca71dbc-65ca-41c8-9541-0d5a5e01175a)
 
